@@ -1,0 +1,10 @@
+.button-group button {
+  margin: 5px;
+  border: none;
+}
+
+.button-group button:hover {
+  transform: 0.5s;
+  background-color: rgb(41, 150, 139);
+  color: white;
+}
