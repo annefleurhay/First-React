@@ -1,4 +1,3 @@
-const greeting = "Wat wil je drinken? Koffie of thee?";
 import "../components/DrinkButtons.css";
 import { Button } from "./UI/Button";
 
